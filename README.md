@@ -39,4 +39,4 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somnath-swami&theme=tokyonight" alt="somnath-swami" /></p>
-<p><img align="center" src="https://github.com/Somnath-swami/somnath-swami/blob/main/source/view.png" /></p>
+<p><img align="center" src="https://github.com/Priya-salunke/Priya-salunke/commit/2993c3cc0ce1fd6c00171afb9c980ae11a574e67" /></p>
